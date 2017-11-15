@@ -1,4 +1,6 @@
-# srvk-eesen-offline-transcriber
+# tensorflow-eesen-offline-transcriber
+
+Forked from srvk/srvk-eesen-offline-transcriber: contains changes to decode with Tensorflow models (as found on PSC Bridges cluster environment) - still requires GPU - needs to be refined to run without depending on e.g. libcuda.so.1
 
 srvk/eesen customized version of Tanel Alumae's [kaldi-offline-transcriber](https://github.com/alumae/kaldi-offline-transcriber)
 
